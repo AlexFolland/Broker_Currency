@@ -26,6 +26,7 @@ local ExpansionCurrencyGroups = {
     {
         CurrencyID.ChampionsSeal,
         CurrencyID.DalaranJewelcraftersToken,
+        CurrencyID.StoneKeepersShard,
     },
     --------------------------------------------------------------------------------
     ---- Cataclysm
@@ -132,6 +133,16 @@ local ExpansionCurrencyGroups = {
         CurrencyID.SoulAsh,
         CurrencyID.Stygia,
         CurrencyID.Valor,
+    },
+    --------------------------------------------------------------------------------
+    ---- Dragonflight
+    --------------------------------------------------------------------------------
+    {
+    },
+    --------------------------------------------------------------------------------
+    ---- The War Within
+    --------------------------------------------------------------------------------
+    {
     },
 }
 

@@ -56,6 +56,13 @@ local CategoryCurrencyGroups = {
         CurrencyItemID.ShinyPetCharm,
     },
     -------------------------------------------------------------------------------
+    ---- Dungeons
+    -------------------------------------------------------------------------------
+    {
+        CurrencyID.JusticePoints,
+        CurrencyID.ValorPoints,
+    },
+    -------------------------------------------------------------------------------
     ---- Holidays
     -------------------------------------------------------------------------------
     {
@@ -72,11 +79,13 @@ local CategoryCurrencyGroups = {
         CurrencyID.ArtifactFragment,
         CurrencyID.BloodyCoin,
         CurrencyID.Conquest,
+        CurrencyID.ConquestPoints,
         CurrencyID.EchoesOfBattle,
         CurrencyID.EchoesOfDomination,
         CurrencyItemID.HalaaBattleToken,
         CurrencyItemID.HalaaResearchToken,
         CurrencyID.Honor,
+        CurrencyID.HonorPoints,
         CurrencyID.SightlessEye,
         CurrencyID.SpiritShard,
         CurrencyID.TolBaradCommendation,
