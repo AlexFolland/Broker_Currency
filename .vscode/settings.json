@@ -61,7 +61,10 @@
         "HONOR",
         "HONOR_POINTS",
         "DUNGEONS",
-        "EXPANSION_NAME9"
+        "EXPANSION_NAME9",
+        "EXPANSION_NAME10",
+        "UIParent",
+        "tContains"
     ],
     "[lua]": {
         "editor.defaultFormatter": "JohnnyMorganz.stylua"
