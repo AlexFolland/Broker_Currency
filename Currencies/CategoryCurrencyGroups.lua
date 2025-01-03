@@ -89,6 +89,7 @@ local CategoryCurrencyGroups = {
         CurrencyID.SightlessEye,
         CurrencyID.SpiritShard,
         CurrencyID.TolBaradCommendation,
+        CurrencyID.BloodyTokens,
     },
 }
 

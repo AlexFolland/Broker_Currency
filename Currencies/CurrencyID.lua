@@ -108,6 +108,18 @@ local CurrencyID = {
     GratefulOffering = 1885,
     HonorPoints = Constants and Constants.CurrencyConsts
         and Constants.CurrencyConsts.CLASSIC_HONOR_CURRENCY_ID or 1901,
+    DragonIslesSupplies = 2003,
+    BloodyTokens = 2123,
+    CarvedHarbingerCrest = 2915,
+    FlameBlessedIron = 3090,
+    Kej = 3056,
+    NerubarFinery = 3093,
+    ResonanceCrystals = 2815,
+    RestoredCofferKey = 3028,
+    RunedHarbingerCrest = 2916,
+    Undercoin = 2803,
+    Valorstones = 3008,
+    WeatheredHarbingerCrest = 2914,
 }
 
 private.CurrencyID = CurrencyID
